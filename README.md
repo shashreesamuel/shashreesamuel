@@ -1,34 +1,41 @@
-### Hello there, I'm Shash - aka TheCoderGuru 👋
+<h1 align="center">Hi 👋, I'm TheCoderGuru</h1>
+<h3 align="center">A Programmer, UX Designer and Verified Bot Developer</h3>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/TheCoderGuru?style=social">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoderguru&label=Profile%20views&color=0e75b6&style=flat" alt="thecoderguru" /> </p>
 
-## I'm a Programmer, UX Designer and Discord Bot Developer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecoderguru" alt="thecoderguru" /></a> </p>
 
-- 🌱 I’m currently learning web development 🤣
-- 🥅 2021 Goals: Think Twice Code Once
-- ⚡ Fun fact: I love to design websites and learn new programming languages
-- 📫 <a href = "mailto: shashreesamuel12@gmail.com">Email Me</a>
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCoderGuru&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoderGuru&theme=radical)
-![Jokes Card](https://readme-jokes.vercel.app/api) -->
+<p align="left"> <a href="https://twitter.com/thecoderguru" target="blank"><img src="https://img.shields.io/twitter/follow/thecoderguru?logo=twitter&style=for-the-badge" alt="thecoderguru" /></a> </p>
 
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]'
+- 🔭 I’m currently working on **various programs**
 
-### Languages and Tools:
+- 🌱 I’m currently learning **Full Web Development**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+- 👯 I’m looking to collaborate on **R**
 
-<br />
-<br />
-<!---
-TheCoderGuru/TheCoderGuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🤝 I’m looking for help with **Ruby**
+
+- 📫 How to reach me **shashreesamuel12@gmail.com**
+
+- ⚡ Fun fact **I like to learn new programming languages**
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/thecoderguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thecoderguru" height="30" width="40" /></a>
+<a href="https://twitter.com/thecoderguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecoderguru" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/thecoderguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thecoderguru" height="30" width="40" /></a>
+<a href="https://codesandbox.com/thecoderguru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="thecoderguru" height="30" width="40" /></a>
+<a href="https://instagram.com/thecoderguru_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecoderguru_official" height="30" width="40" /></a>
+<a href="https://www.behance.net/shashree samuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shashree samuel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/thecoderguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thecoderguru" height="30" width="40" /></a>
+</p>
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecoderguru&show_icons=true&locale=en&layout=compact" alt="thecoderguru" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecoderguru&show_icons=true&locale=en" alt="thecoderguru" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecoderguru&" alt="thecoderguru" /></p>
