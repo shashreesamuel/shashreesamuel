@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm TheCoderGuru</h1>
 <h3 align="center">A Programmer, UX Designer and Verified Bot Developer</h3>
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/TheCoderGuru?style=social">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoderguru&label=Profile%20views&color=0e75b6&style=flat" alt="thecoderguru" /> </p>
 
@@ -7,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/thecoderguru" target="blank"><img src="https://img.shields.io/twitter/follow/thecoderguru?logo=twitter&style=for-the-badge" alt="thecoderguru" /></a> </p>
 
-
+<img align="right" height="274px" width="364px" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 - 🔭 I’m currently working on **various programs**
 
 - 🌱 I’m currently learning **Full Web Development**
