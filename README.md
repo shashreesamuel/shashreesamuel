@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecoderguru" alt="thecoderguru" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thecoderguru" target="blank"><img src="https://img.shields.io/twitter/follow/thecoderguru?logo=twitter&style=for-the-badge" alt="thecoderguru" /></a> </p>
-
 <img align="right" height="274px" width="364px" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 - 🔭 I’m currently working on **various programs**
 
@@ -17,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Ruby**
 
-- 📫 How to reach me **shashreesamuel12@gmail.com**
+- 📫 How to reach <a href = "mailto: shashreeshachindrasamuel14@gmail.com">me</a>
 
 - ⚡ Fun fact **I like to learn new programming languages**
 <br>
