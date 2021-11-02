@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TheCoderGuru</h1>
-<h3 align="center">A Programmer, UX Designer and Verified Bot Developer</h3>
+<h4 align="center">I like to code in innovative new ways</h4>
 
 <br>
 
@@ -15,12 +15,14 @@
 
 - 👯 I’m looking to collaborate on **R**
 
-- 🤝 I’m looking for help with **Ruby**
-
 - 📫 How to reach <a href = "mailto: shashreeshachindrasamuel14@gmail.com">me</a>
 
 - ⚡ Fun fact **I like to learn new programming languages**
+
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecoderguru&show_icons=true&locale=en" alt="thecoderguru" /></p>
 <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoderGuru&layout=compact" alt="thecoderguru" />
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecoderguru&" alt="thecoderguru" /></p>
