@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Full Web Development**
 
-- 👯 I’m looking to collaborate on **R**
+- 👯 I’m learning new and innovative ways to refactor code
 
 - 📫 How to reach <a href = "mailto: shashreeshachindrasamuel14@gmail.com">me</a>
 
-- ⚡ Fun fact **I like to learn new programming languages**
+- ⚡ Fun fact **I am self-taught**
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecoderguru&show_icons=true&locale=en&layout=10" alt="thecoderguru" /></p>
