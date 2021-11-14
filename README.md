@@ -9,15 +9,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **various programs**
+<h3>Biography</h3>
 
-- 🌱 I’m currently learning **Full Web Development**
-
-- 👯 I’m learning new and innovative ways to refactor code
-
-- 📫 How to reach <a href = "mailto: shashreeshachindrasamuel14@gmail.com">me</a>
-
-- ⚡ Fun fact **I am self-taught**
+Lets rewind to where it all began... 2019. I never knew was programming was until I watched a youtube tutorial where a teenager was explaining intricate programming concepts. This intrigued me so much that i decided to experiment on my own and thus I did a Javascript course which taught me the fundamentals of Javascript. From that point onwards, programming was continuous in my life and while my knowledge of programming is quite small, I thoroughly enjoy programming and having fun learning new programming concepts everyday. Everyone can learn how to program and i truly believe that where their is a will their is a way so what better way to learn programming than by starting together.
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecoderguru&show_icons=true&locale=en&layout=10" alt="thecoderguru" /></p>
