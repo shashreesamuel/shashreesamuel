@@ -22,6 +22,10 @@ Follow me on Social Media
 
 [Instagram](https://www.instagram.com/thecoderguru_official)
 
+[Twitter](https://www.twitter.com/TheCoderGuru)
+
+[Frontend Mentor](https://www.frontendmentor.io/profile/TheCoderGuru)
+
 
 
 <br>
