@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TheCoderGuru</h1>
 
-<h2 align="center">A friendly frontend developer from Trinidad</h2>
+<h3 align="center">A friendly frontend developer from Trinidad</h3>
 
 <br>
 
