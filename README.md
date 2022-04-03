@@ -12,7 +12,9 @@
 
 <h3>About Me</h3>
 
-I enjoy coding and reading web development references, following ux design trends and when I am not coding you can find me designing a website. 🖥
+I am Shashree aka TheCoderGuru and I enjoy coding and reading web development references, following ux design trends and when I am not coding you can find me designing a website.
+
+In addition I am active on Frontend Mentor completing challenges to better my frontend development skills, giving feedback to other developers. You may find me active on the Frontend Mentor community sometimes. 🖥
 
 <br>
 
@@ -47,119 +49,3 @@ Follow me on Social Media
 
 <br>
 
-```java
-
-public class TheCoderGuru{
-
-  String firstName;
-  String lastName;
-  String[] hobbies;
-  String[] programming_languages;
-  
-  
-  public TheCoderGuru(String firstName, String lastName, String[] programming_languages, String[] hobbies ){
-    
-    this.firstName = firstName;
-    
-    this.lastName = lastName;
-    
-    this.programming_languages = programming_languages;
-    
-    this.hobbies = hobbies;
-  
-  }    
-
-  
-  public void setfirstName( String firstName ){
-    
-    this.firstName = firstName;
-  
-  }
-
-  
-  public void setlastName( String lastName ){
-    
-    this.lastName = lastName;
-  
-  }
-
-
-  public void setProgrammingLanguages( String[] programming_languages ){
-    
-    this.programming_languages = programming_languages;
-  
-  }
-  
-  
-  public void setHobbies( String[] hobbies ){
-    
-    this.hobbies = hobbies;
-  
-  }
-
-
-  public String getfirstName(){
-    
-    return firstName;
-  
-  }
-
-
-  public String getlastName(){
-   
-   return lastName;
-  
-  }
-  
-  
-  public String getProgrammingLanguages(){
-   
-   return programming_languages;
-  
-  }
-  
-  
-  public String[] getHobbies(){
-    
-    return hobbies;
-  
-  }
-
-  
-  public static void main( String[] args ){
-    
-    String[] programming_languages = new String[]{ 
-    
-      "Java", 
-      
-      "Ruby", 
-      
-      "Python", 
-      
-      "C++", 
-      
-      "SQL" 
-      
-    };
-    
-    String[] hobbies = new String[]{
-    
-      "Playing with my pet"
-      
-      "Designing Websites"
-      
-      "Coding",
-      
-      "Watching rainfall",
-    
-    }
-    
-    Array thecoderguru = new TheCoderGuru( "Shashree", "Samuel", programming_languages, hobbies );
-    
-    System.out.println( thecoderguru.hobbies[0] );
-    
-  }
-
-}
-
-```
