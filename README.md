@@ -16,6 +16,8 @@ I am Shashree aka TheCoderGuru and I enjoy coding and reading web development re
 
 In addition I am active on Frontend Mentor completing challenges to better my frontend development skills, giving feedback to other developers. You may find me active on the Frontend Mentor community sometimes. 🖥
 
+**Fun Fact**: I like to code in simple and effective ways because consistency and determination is key
+
 <br>
 
 Follow me on Social Media
