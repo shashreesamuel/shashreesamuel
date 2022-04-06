@@ -20,6 +20,16 @@ In addition I am active on Frontend Mentor completing challenges to better my fr
 
 <br>
 
+* Currently working on my personal portfolio
+
+* Actively learning javascript
+
+* [Get in Touch](mailto:shashreeshachindrasamuel14@gmail.com/)
+
+* [View my current projects here](https://www.frontendmentor.io/profile/TheCoderGuru)
+
+<br>
+
 Follow me on Social Media
 
 [Behance](https://www.behance.net/shashreesamuel2003)
