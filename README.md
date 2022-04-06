@@ -24,9 +24,9 @@ In addition I am active on Frontend Mentor completing challenges to better my fr
 
 * Actively learning Javascript and CSS at the moment
 
-* [Get in Touch](mailto:shashreeshachindrasamuel14@gmail.com/)
+* [Get in Touch](mailto:shashreeshachindrasamuel14@gmail.com/) regarding feedback on any of my challenges.
 
-* [View my current projects here](https://www.frontendmentor.io/profile/TheCoderGuru)
+* [View my current projects here](https://www.frontendmentor.io/profile/TheCoderGuru) to see what I am occupied doing.
 
 <br>
 
