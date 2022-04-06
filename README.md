@@ -22,7 +22,7 @@ In addition I am active on Frontend Mentor completing challenges to better my fr
 
 * Currently working on my personal portfolio
 
-* Actively learning javascript
+* Actively learning Javascript and CSS at the moment
 
 * [Get in Touch](mailto:shashreeshachindrasamuel14@gmail.com/)
 
