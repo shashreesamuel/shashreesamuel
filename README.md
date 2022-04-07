@@ -20,6 +20,8 @@ In addition I am active on Frontend Mentor completing challenges to better my fr
 
 <br>
 
+Here are some additional interesting information about me
+
 * Currently working on my personal portfolio
 
 * Actively learning Javascript and CSS at the moment
@@ -40,8 +42,11 @@ Follow me on Social Media
 
 [Frontend Mentor](https://www.frontendmentor.io/profile/TheCoderGuru)
 
-[Freecodecamp](https://www.freecodecamp.org/TheCoderGuru)
+[FreeCodeCamp](https://www.freecodecamp.org/TheCoderGuru)
 
+[Hashnode](https://thecoderguru.hashnode.dev/)
+
+[Codepen](https://www.codepen.io/TheCoderGuru/)
 
 <br>
 
@@ -61,3 +66,10 @@ Follow me on Social Media
 
 <br>
 
+<br>
+
+<h3 align="left">Inspirational Quotes</h3>
+
+<br>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&motivational)
