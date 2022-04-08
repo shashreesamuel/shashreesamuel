@@ -6,6 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecoderguru" alt="thecoderguru" /></a> </p>
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=TheCoderGuru)
+
+
 <img align="right" height="274px" width="364px" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
 <br>
