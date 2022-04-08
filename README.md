@@ -27,13 +27,13 @@ In addition I am active on Frontend Mentor completing challenges to better my fr
 
 Here are some additional interesting information about me
 
-* Currently working on my personal portfolio
+🖲 Currently working on my personal portfolio
 
-* Actively learning Javascript and CSS at the moment
+✍ Actively learning Javascript and CSS at the moment
 
-* [Get in Touch](mailto:shashreeshachindrasamuel14@gmail.com/) regarding feedback on any of my challenges.
+💌 [Get in Touch](mailto:shashreeshachindrasamuel14@gmail.com/) regarding feedback on any of my challenges.
 
-* [View my current projects here](https://www.frontendmentor.io/profile/TheCoderGuru) to see what I am occupied doing.
+👁 [View my current projects here](https://www.frontendmentor.io/profile/TheCoderGuru) to see what code I am currently working on
 
 <br>
 
@@ -41,13 +41,7 @@ Follow me on Social Media
 
 [Behance](https://www.behance.net/shashreesamuel2003)
 
-[Instagram](https://www.instagram.com/thecoderguru_official)
-
-[Twitter](https://www.twitter.com/TheCoderGuru)
-
 [Frontend Mentor](https://www.frontendmentor.io/profile/TheCoderGuru)
-
-[FreeCodeCamp](https://www.freecodecamp.org/TheCoderGuru)
 
 [Hashnode](https://thecoderguru.hashnode.dev/)
 
@@ -78,3 +72,11 @@ Follow me on Social Media
 <br>
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&motivational)
+
+<br>
+
+<h2 align="left">Recent Articles</h2>
+
+[How to create a simple text shadow](https://thecoderguru.hashnode.dev/how-to-create-a-simple-text-stroke)
+
+[How to customize the design of your selected text](https://thecoderguru.hashnode.dev/how-to-customize-the-design-of-your-selected-text)
