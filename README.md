@@ -62,6 +62,16 @@ Follow some amazing people on Github
 
 [Grace Snow](https://www.github.com/gracesnow)
 
+
+[Chamu Mutezva](https://github.com/ChamuMutezva)
+
+
+[Anna Leigh](https://github.com/brasspetals)
+
+
+[Apple Pie Giraffe](https://github.com/ApplePieGiraffe)
+
+
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecoderguru&show_icons=true&locale=en&layout=10" alt="thecoderguru" /></p>
