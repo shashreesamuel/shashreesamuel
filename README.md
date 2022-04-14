@@ -49,6 +49,21 @@ Follow me on Social Media
 
 <br>
 
+Follow some amazing people on Github
+
+[Mabchir](https://www.github.com/Mabchir)
+
+
+[Vanza Setia](https://www.github.com/vanzasetia)
+
+
+[Matt Studdert](https://www.github.com/mattstuddert)
+
+
+[Grace Snow](https://www.github.com/gracesnow)
+
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecoderguru&show_icons=true&locale=en&layout=10" alt="thecoderguru" /></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoderGuru&layout=compact" alt="thecoderguru" />
