@@ -102,6 +102,6 @@ Follow some amazing people on Github
 
 <h2 align="left">Recent Articles</h2>
 
-[How to create a simple text shadow](https://thecoderguru.hashnode.dev/how-to-create-a-simple-text-stroke)
+[How To Create a Simple Text Shadow](https://thecoderguru.hashnode.dev/how-to-create-a-simple-text-stroke)
 
-[How to customize the design of your selected text](https://thecoderguru.hashnode.dev/how-to-customize-the-design-of-your-selected-text)
+[How To Customize The Design Of Your Selected Text](https://thecoderguru.hashnode.dev/how-to-customize-the-design-of-your-selected-text)
