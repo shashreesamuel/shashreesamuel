@@ -37,7 +37,7 @@ Here are some additional interesting information about me
 
 <br>
 
-Follow me on Social Media
+<h4>Follow me on Social Media</h4>
 
 [Behance](https://www.behance.net/shashreesamuel2003)
 
@@ -49,7 +49,7 @@ Follow me on Social Media
 
 <br>
 
-Follow some amazing people on Github
+<h4>Follow some amazing people on Github</h4>
 
 [Mabchir](https://www.github.com/Mabchir)
 
