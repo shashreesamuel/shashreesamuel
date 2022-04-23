@@ -78,8 +78,9 @@ Here are some additional interesting information about me
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoderGuru&layout=compact" alt="thecoderguru" />
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecoderguru&" alt="thecoderguru" /></p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=thecoderguru&bg_color=ffffff&color=3457C7&line=3457C7&point=3457C7&hide_border=true&" />
 
 <br>
 <p align="left">
