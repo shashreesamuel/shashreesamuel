@@ -93,11 +93,20 @@ Here are some additional interesting information about me
 
 <br>
 
-<h3 align="left">Inspirational Quotes</h3>
+<a href="https://github.com/TheCoderGuru/random_quote_generator">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheCoderGuru&repo=random_quote_generator&theme=light&show_owner=True" />
+</a>
+
+<a href="https://github.com/TheCoderGuru/color-generator">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheCoderGuru&repo=color-generator&theme=light&show_owner=True" />
+</a>
 
 <br>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&motivational)
+&nbsp;
+![](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&motivational)
+
+<br>
 
 <br>
 
