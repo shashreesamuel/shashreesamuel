@@ -21,7 +21,7 @@ I am Shashree aka TheCoderGuru and I enjoy coding and reading web development re
 
 In addition I am active on Frontend Mentor completing challenges to better my frontend development skills, giving feedback to other developers. You may find me active on the Frontend Mentor community sometimes. 🖥
 
-My interest in coding started last two years when I was intrigued with how websites we created and also when I discovered that tutorials existed for web development. This led to me following along with various tutorials when I had no idea what HTML or CSS was neither how it came together in order to form a website.
+My interest in coding started last two years when I was intrigued with how websites were created and also when I discovered that tutorials existed for web development. This led to me following along with various tutorials when I had no idea what HTML or CSS was neither how it came together in order to form a website.
 
 I would say that the journey from that point to now has been filled with good times and bad times since I have experienced moments where I was clueless on how to achieve particular designs however I found some solace in using a handy-dandy invention within your browser called the Developer Tools.
 The takeaway is to not give up when you encounter an error or problem when coding, rather you should google the error and try to find credible support channels that might give a solution to your problem. urrently I am learning core concepts of Javascript in order to be user-friendly accesssible websites that capture your eye and is soft on the eye.
