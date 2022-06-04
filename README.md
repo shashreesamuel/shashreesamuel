@@ -117,7 +117,6 @@ Here are some additional interesting information about me
 
 <br>
 
-<br>
 ![](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&motivational)
 
 <br>
