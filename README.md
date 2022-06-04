@@ -4,6 +4,8 @@
 
 <br>
 
+<img align="center" height="274px" width="364px" src="">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecoderguru" alt="thecoderguru" /></a> </p>
 
 <br>
