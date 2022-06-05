@@ -81,7 +81,7 @@ Here are some additional interesting information about me
 
 [Apple Pie Giraffe](https://github.com/ApplePieGiraffe)
 
-
+[Kevin Powell](https://github.com/kevin-powell)
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecoderguru&show_icons=true&locale=en&layout=10" alt="thecoderguru" /></p>
