@@ -130,3 +130,5 @@ Here are some additional interesting information about me
 [How To Create a Simple Text Shadow](https://thecoderguru.hashnode.dev/how-to-create-a-simple-text-stroke)
 
 [How To Customize The Design Of Your Selected Text](https://thecoderguru.hashnode.dev/how-to-customize-the-design-of-your-selected-text)
+
+[The :marker pseudoelement](https://thecoderguru.hashnode.dev/the-marker-pseudoelement)
