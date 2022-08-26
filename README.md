@@ -12,41 +12,52 @@
 
 ![](https://komarev.com/ghpvc/?username=TheCoderGuru)
 
+<br>
 
-<img align="right" height="274px" width="364px" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
+![](https://img.shields.io/github/stars/thecoderguru?style=social)
 
 <br>
 
-<h3>About Me</h3>
+<img align="right" height="274px" width="364px" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
-I am Shashree aka TheCoderGuru and I enjoy coding and reading web development references, and following UX design trends, when I am not coding you can find me designing a website.
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-Z0pfIfMe0I-LW5wAxeKyg?style=social)
 
-In addition, I am active on Frontend Mentor completing challenges to better my frontend development skills in addition giving feedback to other developers. You may find me active in the Frontend Mentor community sometimes. 🖥
+<br>
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-Z0pfIfMe0I-LW5wAxeKyg?style=social)
+
+<br>
+
+![](banner.png)
+
+<br>
+
+<h3><b>About Me</b></h3>
+
+<br>
+
+I am Shashree aka TheCoderGuru and I enjoy coding, reading web development references, following UX design trends and when I am not coding you can find me designing a website.
+
+In addition, I am active on Frontend Mentor completing challenges to better my frontend development skills in addition to giving feedback to other developers. You may find me active in the Frontend Mentor community sometimes or on Slack. 🖥
 
 <br>
 
 <details>
-    <summary>Read More</summary>
-    My interest in coding started last two years when I was intrigued with how websites were created and also when I discovered that tutorials existed for web development. This led to me following along with various tutorials when I had no idea what HTML or CSS or how they came together in order to form a website.
+    <summary>Read my story</summary>
 
-The journey from that point to now has been filled with good times and bad times since I have experienced moments where I was clueless about achieving particular designs however I found some solace in using a handy-dandy invention within your browser called the Developer Tools.
+    My interest in coding started last two years when I was intrigued with how websites were created and also when I discovered that tutorials existed for web development. This led to me following along with various tutorials when I had no idea about HTML or CSS or how they came together to form a website.
 
-The takeaway is to not give up when you encounter an error or problem when coding, rather you should google the error and try to find credible support channels that might give a solution to your problem. Currently I am learning core concepts of Javascript in order to be user-friendly accessible websites that capture your eye and are soft on the eye.
+    The journey from that point onwards has been filled with good times and bad times since I have experienced moments where I was clueless about achieving particular designs however I found some solace in using a handy-dandy invention within your browser called the Developer Tools.
 
-I truly believe that no matter what part of the world you are located in, website development unites everyone together under one common goal despite our differences and although we are all different but seeing each other as different makes us less different.
+    Currently, I follow youtube creators like Kevin Powell, Gary Simon and Traversy Media and this has greatly empowered me to keep coding and being persistent in order to improve my skills in HTML, CSS and Javascript. I have learnt that coding is not about what you know but what you can figure out and this has greatly inspired me to keep learning but more importantly is to have fun while learning, it should not be tiresome but as an individual you should feel motivated to code and just learn more. The takeaway is to not give up when you encounter an error or problem when coding, rather you should firstly retrace your steps in your coding process and try to find the error, if that does not work then google the error and try to find credible support channels that might give a solution to your problem.
+
+    I am in the process of learning the core concepts of Javascript in order to code user-friendly accessible websites that not only capture your eye visually but also accessibly.
+
+    I truly believe that no matter what part of the world you are located in, website development unites everyone together under one common goal and despite our differences if we see each other as different we become less different.
+
 </details>
 
 <br>
-
-**Fun Fact**: I like to code in simple and effective ways because consistency and determination are vital.
-
-<br>
-
-Here are some additional interesting information about me
-
-🖲 Currently working on my personal portfolio
-
-✍ Actively learning Javascript and CSS at the moment
 
 💌 [Get in Touch](mailto:shashreeshachindrasamuel14@gmail.com/) regarding feedback on any of my challenges.
 
@@ -54,7 +65,9 @@ Here are some additional interesting information about me
 
 <br>
 
-<h4>Follow me on Social Media</h4>
+<h4><b>Follow me on Social Media</b></h4>
+
+<br>
 
 [Behance](https://www.behance.net/shashreesamuel2003)
 
@@ -66,41 +79,24 @@ Here are some additional interesting information about me
 
 <br>
 
-<h4>Follow some amazing people on Github</h4>
-
-[Mabchir](https://www.github.com/Mabchir)
-
-
-[Vanza Setia](https://www.github.com/vanzasetia)
-
-
-[Matt Studdert](https://www.github.com/mattstuddert)
-
-
-[Grace Snow](https://www.github.com/gracesnow)
-
-
-[Chamu Mutezva](https://github.com/ChamuMutezva)
-
-
-[Anna Leigh](https://github.com/brasspetals)
-
-
-[Apple Pie Giraffe](https://github.com/ApplePieGiraffe)
-
-[Kevin Powell](https://github.com/kevin-powell)
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecoderguru&show_icons=true&locale=en&layout=10" alt="thecoderguru" /></p>
+
+<br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoderGuru&layout=compact" alt="thecoderguru" />
 
+<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecoderguru&" alt="thecoderguru" /></p>
+
+<br>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=thecoderguru&bg_color=ffffff&color=3457C7&line=3457C7&point=3457C7&hide_border=true&" />
 
 <br>
+
 <p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -110,29 +106,9 @@ Here are some additional interesting information about me
 
 <br>
 
-<h3>Personal Projects</h3>
+<h3><b>Recent Articles</b></h3>
 
 <br>
-
-<a href="https://github.com/TheCoderGuru/random_quote_generator">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheCoderGuru&repo=random_quote_generator&theme=light&show_owner=True" />
-</a>
-
-<a href="https://github.com/TheCoderGuru/color-generator">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheCoderGuru&repo=color-generator&theme=light&show_owner=True" />
-</a>
-
-<br>
-
-<br>
-
-![](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&motivational)
-
-<br>
-
-<br>
-
-<h2 align="left">Recent Articles</h2>
 
 [How To Create a Simple Text Shadow](https://thecoderguru.hashnode.dev/how-to-create-a-simple-text-stroke)
 
