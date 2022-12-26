@@ -18,8 +18,6 @@
 
 <br>
 
-<img align="right" height="274px" width="364px" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
-
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-Z0pfIfMe0I-LW5wAxeKyg?style=social)
 
 <br>
@@ -28,11 +26,9 @@
 
 <br>
 
-![](banner.png)
+<h3><b>About Me</b></h3>
 
 <br>
-
-<h3><b>About Me</b></h3>
 
 <br>
 
@@ -102,16 +98,3 @@ In addition, I am active on Frontend Mentor completing challenges to better my f
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> </a>
 
-<br>
-
-<br>
-
-<h3><b>Recent Articles</b></h3>
-
-<br>
-
-[How To Create a Simple Text Shadow](https://thecoderguru.hashnode.dev/how-to-create-a-simple-text-stroke)
-
-[How To Customize The Design Of Your Selected Text](https://thecoderguru.hashnode.dev/how-to-customize-the-design-of-your-selected-text)
-
-[The :marker pseudoelement](https://thecoderguru.hashnode.dev/the-marker-pseudoelement)
