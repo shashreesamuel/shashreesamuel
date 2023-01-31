@@ -33,7 +33,3 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecoderguru&" alt="thecoderguru" /></p>
-
-<br>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=thecoderguru&bg_color=ffffff&color=3457C7&line=3457C7&point=3457C7&hide_border=true&" />
