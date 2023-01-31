@@ -8,7 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecoderguru" alt="thecoderguru" /></a> </p>
 
-![](Frame 7.png)
+<br>
+<br>
+
+![](https://github.com/TheCoderGuru/TheCoderGuru/blob/main/Frame%207.png)
+
 <br>
 <br>
 
