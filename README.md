@@ -11,7 +11,19 @@
 <br>
 <br>
 
-![](https://github.com/TheCoderGuru/TheCoderGuru/blob/main/Frame%207.png)
+```json
+{
+  "about me": {
+    "I am Shashree aka TheCoderGuru and I enjoy coding, reading web development references, following ux design trends and when i am not coding you can find me designing a website.In addition, I am active on Frontend Mentor completing challenges to better my frontend development skills in addition to giving feedback to other developers. You may find me active in the Frontend Mentor community sometimes or on Slack."
+  },
+  
+  "social media": {
+    "frontend mentor": "https://www.frontendmentor.io/profile/TheCoderGuru",
+    "linkedin": "https://www.linkedin.in/shashree-samuel",
+    "codepen": "https://codepen.io/TheCoderGuru"
+  }
+}
+```
 
 <br>
 <br>
