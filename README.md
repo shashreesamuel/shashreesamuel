@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm TheCoderGuru</h1>
+<h1 align="center">Hi 👋, I'm Shashree</h1>
 
-<h3 align="center">A friendly frontend developer from Trinidad</h3>
+<h3 align="center">A friendly frontend developer</h3>
 
 <br>
 
@@ -11,19 +11,8 @@
 <br>
 <br>
 
-```json
-{
-  "about me": {
-    "I am Shashree aka TheCoderGuru and I enjoy coding, reading web development references, following ux design trends and when i am not coding you can find me designing a website.In addition, I am active on Frontend Mentor completing challenges to better my frontend development skills in addition to giving feedback to other developers. You may find me active in the Frontend Mentor community sometimes or on Slack."
-  },
-  
-  "social media": {
-    "frontend mentor": "https://www.frontendmentor.io/profile/TheCoderGuru",
-    "linkedin": "https://www.linkedin.in/shashree-samuel",
-    "codepen": "https://codepen.io/TheCoderGuru"
-  }
-}
-```
+Hey there, I am Shashree and my interest in coding started last two years when I was intrigued with how websites were created in addition to discovering that tutorials existed for web development. 
+This guided me to follow various tutorials although I lacked understanding about HTML or CSS and website development. The journey from that point onwards has been a fluctuated learning curve with clueless moments and successful moments however my perspective of coding has truly resonated with this quote "its not about what you know but what you can figure out".
 
 <br>
 <br>
