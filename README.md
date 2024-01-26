@@ -25,12 +25,12 @@ This guided me to follow various tutorials although I lacked understanding about
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecoderguru&show_icons=true&locale=en&layout=10" alt="thecoderguru" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashreesamuel&show_icons=true&locale=en&layout=10" alt="thecoderguru" /></p>
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoderGuru&layout=compact" alt="thecoderguru" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashreesamuel&layout=compact" alt="thecoderguru" />
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecoderguru&" alt="thecoderguru" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashreesamuel&" alt="thecoderguru" /></p>
