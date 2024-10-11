@@ -19,7 +19,7 @@ This guided me to follow various tutorials although I lacked understanding about
 
 💌 [Get in Touch](mailto:shashreeshachindrasamuel14@gmail.com/) regarding feedback on any of my challenges.
 
-👁 [View my current projects here](https://www.frontendmentor.io/profile/TheCoderGuru) to see what code I am currently working on
+👁 [View my current projects here](https://www.frontendmentor.io/profile/shashreesamuel) to see what code I am currently working on
 
 <br>
 
