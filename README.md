@@ -31,6 +31,3 @@ This guided me to follow various tutorials although I lacked understanding about
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashreesamuel&layout=compact" alt="thecoderguru" />
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashreesamuel&" alt="thecoderguru" /></p>
