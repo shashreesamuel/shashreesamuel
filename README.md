@@ -11,8 +11,8 @@
 <br>
 <br>
 
-Hey there, I am Shashree and my interest in coding started last two years when I was intrigued with how websites were created in addition to discovering that tutorials existed for web development. 
-This guided me to follow various tutorials although I lacked understanding about HTML or CSS and website development. The journey from that point onwards has been a fluctuated learning curve with clueless moments and successful moments however my perspective of coding has truly resonated with this quote "its not about what you know but what you can figure out".
+Hey there, I am Shashree and my interest in coding started last two years when I was intrigued with how websites were created after discovering that tutorials existed for web development. 
+This guided me to follow various tutorials although I lacked the fundamentals of HTML and CSS.
 
 <br>
 <br>
