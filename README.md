@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shashree</h1>
-<h3 align="center">An inquisitive individual that loves programming</h3>
+<h1 align="">Hi 👋, I'm Shashree</h1>
+<h3 align="">An inquisitive individual that loves programming</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashreesamuel&title=Followers,Repositories,Experience,Stars,Commits,PullRequest&margin-w=15" alt="shashreesamuel" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashreesamuel&title=Followers,Repositories,Experience,Stars,Commits,PullRequest&margin-w=15" alt="shashreesamuel" /></a> </p>
 
 <br>
 
