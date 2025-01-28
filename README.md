@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **html and css**
 
-- 📫 How to reach me **shashreeshachindrasamuel14@gmail.com**
+- 📫 [How to reach me](shashreeshachindrasamuel14@gmail.com)
 
 - 🤪 Fun fact **I like to watch programming tutorials**
 
