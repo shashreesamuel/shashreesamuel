@@ -5,13 +5,14 @@
 
 <br>
 
-- 🌱 I’m currently learning **laravel and bootstrap**
+- 🌱 I’m currently learning **Laravel and Bootstrap**
 
-- 💬 Ask me about **html and css**
+- 💬 Ask me about **Html and Css**
 
 - 📫 [How to reach me](shashreeshachindrasamuel14@gmail.com)
 
 - 🤪 Fun fact **I like to watch programming tutorials**
+
 
 <br>
 <br>
