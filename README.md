@@ -1,8 +1,6 @@
 <h1 align="">Hi 👋, I'm Shashree</h1>
 <h3 align="">An inquisitive individual that loves programming</h3>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashreesamuel&title=Followers,Repositories,Experience,Commits,PullRequest&margin-w=15" alt="shashreesamuel" /></a> </p>
-
 <br>
 
 - 🌱 I’m currently learning **Laravel and Bootstrap**
